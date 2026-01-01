@@ -1,0 +1,11 @@
+﻿venv/
+.venv/
+myenv/
+__pycache__/
+*.pyc
+data/
+output/
+*.las
+*.laz
+*.pkl
+.vscode/
